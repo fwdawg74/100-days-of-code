@@ -15,10 +15,21 @@ As for the Free Code Camp project I am going to have to go back through the CSS 
 ### Day 2: Sept. 22, 2021
 **Today's Progress**: Contunied working on the Git and GitHub Master class. Completed sections 22-24 which covered how to recover from incorrect code changes that have committed and pushed to one's repository. I've also decided that I need to go back and review the Basic CSS section of the Responsive Web Design Certification course on Free Code Camp. I'm doing this because I am struggling with the Product Page project. 
 
-**Thoughts:** 
+**Thoughts:** I am contemplaing starting over with FCC
 
 ### Day 3: Sept. 23, 2021
-**Today's Progress**:
+**Today's Progress**: No progress today because I was not feeling well.
 
 **Thoughts:** 
+
+### Day 4: Sept. 24, 2021
+**Today's Progress**: Completed the HTML section of Responsive Web Design in FCC
+
+**Thoughts:** I needed this refresher
+
+### Day 5: Sept. 25, 2021
+**Today's Progress**: 
+
+**Thoughts:** 
+
 
