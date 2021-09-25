@@ -28,6 +28,16 @@ As for the Free Code Camp project I am going to have to go back through the CSS 
 **Thoughts:** I needed this refresher
 
 ### Day 5: Sept. 25, 2021
+**Today's Progress**: Completed the CSS section of Responsive Web Design in FCC
+
+**Thoughts:** I needed this refresher
+
+### Day 6: Sept. 26, 2021
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 5: Sept. 25, 2021
 **Today's Progress**: 
 
 **Thoughts:** 
