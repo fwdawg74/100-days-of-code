@@ -32,12 +32,12 @@ As for the Free Code Camp project I am going to have to go back through the CSS 
 
 **Thoughts:** I needed this refresher
 
-### Day 6: Sept. 26, 2021
-**Today's Progress**: 
+### Day 6: Sept. 30, 2021
+**Today's Progress**: Watched Class Central YouTube on Applied Virtual Design (Free Code Camp) "Part 1"
 
-**Thoughts:** 
+**Thoughts:** This included sections on positioning which helped me understand how CSS items position, margins, width and height worked. 
 
-### Day 5: Sept. 25, 2021
+### Day 7: Oct 1, 2021
 **Today's Progress**: 
 
 **Thoughts:** 
