@@ -38,6 +38,11 @@ As for the Free Code Camp project I am going to have to go back through the CSS 
 **Thoughts:** This included sections on positioning which helped me understand how CSS items position, margins, width and height worked. 
 
 ### Day 7: Oct 1, 2021
+**Today's Progress**: Watched Class Central YouTube on Applied Virtual Design (Free Code Camp) "Part 2"
+
+**Thoughts:** Items covered included colors and anaimation used in CSS
+
+### Day 8: Oct 2, 2021
 **Today's Progress**: 
 
 **Thoughts:** 
