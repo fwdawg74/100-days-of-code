@@ -42,9 +42,9 @@ As for the Free Code Camp project I am going to have to go back through the CSS 
 
 **Thoughts:** Items covered included colors and anaimation used in CSS
 
-### Day 8: Oct 2, 2021
-**Today's Progress**: 
+### Day 8: Oct 8, 2021
+**Today's Progress**: Watched Class Central YouTube on Applied Accessability (Free Code Camp) "Part 1" and "Part2"
 
-**Thoughts:** 
+**Thoughts:** Good coverage of what tags, elements are needed to allow one's website to be availble to screen readers and audio readers for people with vision and hearing disablitites. 
 
 
