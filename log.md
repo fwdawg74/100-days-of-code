@@ -47,7 +47,7 @@ As for the Free Code Camp project I am going to have to go back through the CSS 
 
 **Thoughts:** Good coverage of what tags, elements are needed to allow one's website to be availble to screen readers and audio readers for people with vision and hearing disablitites. 
 
-### Day 9: Oct 9, 2021
+### Day 9: Oct 11, 2021
 **Today's Progress: Completed Class Central YouTube on Applied Accessability (Free Code Camp) "Part 2" and Responsive Web Design, started on Flex Box
 
 **Thought** Continued to learn more about making web site more accessible to those individuals who are disabled, the responsive web design section was ok but short. The Flex Box section has some good information in it and look forward to completing it tomorrow. 
