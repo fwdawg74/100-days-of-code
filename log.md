@@ -50,6 +50,6 @@ As for the Free Code Camp project I am going to have to go back through the CSS 
 ### Day 9: Oct 9, 2021
 **Today's Progress: Completed Class Central YouTube on Applied Accessability (Free Code Camp) "Part 2" and Responsive Web Design, started on Flex Box
 
-**Thought** Continuted learn more about making web site more accessible to those individuals who are disabled, the responsive web design section was ok but short. The Flex Box section has some good information in it and look forward to completing it tomorrow. 
+**Thought** Continued to learn more about making web site more accessible to those individuals who are disabled, the responsive web design section was ok but short. The Flex Box section has some good information in it and look forward to completing it tomorrow. 
 
 
