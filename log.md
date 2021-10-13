@@ -50,6 +50,11 @@ As for the Free Code Camp project I am going to have to go back through the CSS 
 ### Day 9: Oct 11, 2021
 **Today's Progress: Completed Class Central YouTube on Applied Accessability (Free Code Camp) "Part 2" and Responsive Web Design, started on Flex Box
 
-**Thought** Continued to learn more about making web site more accessible to those individuals who are disabled, the responsive web design section was ok but short. The Flex Box section has some good information in it and look forward to completing it tomorrow. 
+**Thought** Continued to learn more about making web site more accessible to those individuals who are disabled, the responsive web design section was ok but short. The Flex Box section has some good information in it and look forward to completing it.
+
+### Day 10: Oct 13, 2021
+**Today's Progress: Completed Flex Box sectin in Responsive Web Design curriculum (FCC)
+
+**Thought** Went through the Flex Box section a bit slower this time, learned a lot about Flex and how its different attributes affects the look and feel of items on a web page. My plan is create a web site that will document how Flex works on a web page and how each attribute affects the elements on the page. 
 
 
